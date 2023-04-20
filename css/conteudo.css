@@ -19,3 +19,8 @@
 .conteudo > div{
     font-size: 3em;
 }
+
+.conteudo p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+}
