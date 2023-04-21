@@ -1,0 +1,26 @@
+.rodape nav{
+    flex-grow: 6;
+    display: flex;
+    width: 80%;
+    height: 100%;
+    align-items: center;
+}
+
+.rodape img{
+    display: block;
+    width: 9%;
+    max-width: 9%;
+    margin: 0 auto;
+}
+
+.rodape a{
+    display: inline-block;
+    flex-grow: 1;
+    background-color: aqua;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5vh 0 0 0;
+}
