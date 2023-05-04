@@ -44,3 +44,11 @@ btn.addEventListener("click", function(){
 
 
 });
+
+/* <h2 class="tit-sec">Seção de Fotos</h2> */
+
+const h2Element = document.querySelector(".tit-sec");
+
+console.log(h2Element);
+
+//querySelectorAll()
