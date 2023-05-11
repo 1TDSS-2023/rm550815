@@ -151,3 +151,6 @@ elements.forEach( (el)=>{
 // console.log(pElements.item(1));
 
 
+const h2Element = document.querySelector("#meu-btn");
+
+console.log(h2Element);
